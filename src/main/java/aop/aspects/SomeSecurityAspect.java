@@ -23,17 +23,17 @@ public class SomeSecurityAspect {
 //
 //    @Before("allAddMethods()")
 //    public void beforeAddLoggingAdvice(){
-//        System.out.println("[L] beforeAddLoggingAdvice: Логгируем событие ДОБАВЛЕНИЯ книги/журнала");
+//        System.out.println("[L] beforeAddLoggingAdvice: Логируем событие ДОБАВЛЕНИЯ книги/журнала");
 //    }
 //
 //    @Before("allGetMethods()")
 //    public void beforeGetLoggingAdvice(){
-//        System.out.println("[G] beforeGetLoggingAdvice: Логгируем событие ПОЛУЧЕНИЯ книги/журнала");
+//        System.out.println("[G] beforeGetLoggingAdvice: Логируем событие ПОЛУЧЕНИЯ книги/журнала");
 //    }
 //
 //    @Before("allReturnMethods()")
 //    public void beforeReturnMethods(){
-//        System.out.println("[R] beforeReturnMethods: Логгируем событие ВОЗВРАТА книги/журнала");
+//        System.out.println("[R] beforeReturnMethods: Логируем событие ВОЗВРАТА книги/журнала");
 //    }
 //
 //    @Before("getAndReturnMethods()")
