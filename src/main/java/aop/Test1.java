@@ -12,7 +12,6 @@ public class Test1 {
         uniLibrary.getMagazine();
 //        //uniLibrary.returnBook();
 //        System.out.println("\n\n");
-
 //        SchoolLibrary schoolLibrary = context.getBean("schoolLibrary", SchoolLibrary.class);
 //        schoolLibrary.getBook();
 //        //schoolLibrary.returnBook();
