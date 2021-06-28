@@ -10,6 +10,7 @@ public class Test1 {
         UniLibrary uniLibrary = context.getBean("libraryBean", UniLibrary.class);
 
         uniLibrary.addBook("John", book);
+        //fuckup rebase
         //uniLibrary.addMagazine();
 
         //uniLibrary.getBook();
